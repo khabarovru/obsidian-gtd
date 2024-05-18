@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "998de50275259d79",
+            "id": "9e9ff5d27abd732a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7f1252e5359221c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Project Management/📝 Список отдельных задач.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Project Management/Projects/Ремонт в кухне.md",
+                "file": "01 Project Management/📝 Список отдельных задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Project Management/Projects/Ремонт в кухне.md",
+                "file": "01 Project Management/📝 Список отдельных задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Project Management/Projects/Ремонт в кухне.md"
+                "file": "01 Project Management/📝 Список отдельных задач.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Project Management/Projects/Ремонт в кухне.md"
+                "file": "01 Project Management/📝 Список отдельных задач.md"
               }
             }
           }
@@ -186,35 +198,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "998de50275259d79",
+  "active": "b7f1252e5359221c",
   "lastOpenFiles": [
+    "01 Project Management/🗃️ Список проектов.md",
+    "01 Project Management/🗄️ Выполненые задачи.md",
+    "01 Project Management/Projects/Переработка системы отчетов TPS.md",
+    "01 Project Management/Projects/Написать практическое руководство по GTD в Obsidian..md",
     "01 Project Management/✅ Основная страница.md",
     "01 Project Management/Projects/Ремонт в кухне.md",
+    "01 Project Management/Projects/Overhaul TPS reports system.md",
+    "01 Project Management/Projects/Съездить на выходные в Испанию.md",
+    "01 Project Management/Projects/Без названия.md",
+    "01 Project Management/Projects/👤Mum.md",
+    "01 Project Management/Projects/Write a how-to guide for GTD in Obsidian.md",
+    "01 Project Management/📝 Список отдельных задач.md",
+    "01 Project Management/Projects/Take a holiday in Spain.md",
     "01 Project Management/Projects/Renovate the kitchen.md",
     "People/👤Brent.md",
     "People/👤Мама.md",
     "People/👤Lumbergh.md",
     "Periodic notes/2023-08-18.md",
-    "01 Project Management/Projects/👤Mum.md",
     "People/👤Mum.md",
     "00 Documentation/tasks.js.md",
-    "01 Project Management/📝 Список отдельных задач.md",
     "01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4.md",
     "Periodic notes/2024-05-13.md",
-    "01 Project Management/Projects/Без названия.md",
-    "01 Project Management/🗄️ Выполненые задачи.md",
-    "01 Project Management/🗃️ Список проектов.md",
     "People/👤David.md",
     "People/👤Jim.md",
-    "01 Project Management/Projects/Write a how-to guide for GTD in Obsidian.md",
     "01 Project Management/📝 Next actions list.md",
     "01 Project Management/🗄️ Completed tasks.md",
-    "01 Project Management/✅ Tasks.md",
-    "01 Project Management/Projects/🗃️ Список проектов.md",
-    "01 Project Management/🗃️ Projects list.md",
     "01 Project Management/Projects/attachments/01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4/Личное. Homeassistant. Настроить камеру aqara g4_600x600.webp",
-    "Utility/Templates/New periodic note.md",
-    "Utility/Templates/New note — копия.md",
     "01 Project Management/Projects/attachments/01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4",
     "01 Project Management/Projects/attachments/01 Project Management/Projects",
     "01 Project Management/Projects/attachments/01 Project Management",

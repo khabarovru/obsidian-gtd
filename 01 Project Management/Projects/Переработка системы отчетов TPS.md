@@ -1,13 +1,13 @@
-# Overhaul TPS reports system
+# Переработка системы отчетов TPS
 #project 
 ```dataviewjs
 dv.view('project-progress')
 ```
 
-## Current system
+Текущая система
 - [x] Some completed task
 - [ ] Meet with [[👤Lumbergh]] to identify his main pain-points with the current system
 - [ ] Meet with [[👤David]] to discuss [[👤Lumbergh]]'s feedback
 
-## New system
+## Новая система
 - [ ] Call Mandy to ask if there has been any previous research done regarding alternate solutions
