@@ -2,7 +2,7 @@
  * Set this to be the full path for the note where you want to store your completed tasks
  * Docs: https://github.com/alangrainger/obsidian-gtd/blob/main/00%20Documentation/Task%20menu%20template.md#archiveremove-completed-tasks
 */
-const completedTasksNote = '01 Project Management/🗄️ Completed tasks.md'
+const completedTasksNote = '01 Project Management/🗄️ Выполненые задачи.md'
 const taskLinePattern = /^[ \t]*- \[[ x]\]/
 
 const isLineATask = (line) => line.match(taskLinePattern) !== null
@@ -38,26 +38,26 @@ class main {
   async openMenu() {
     const options = [
       {
-        label: 'Insert task',
+        label: 'Добавить задачу',
         function: this.insertNewTask
       },
       {
-        label: 'Insert waiting on task',
+        label: 'Добавить дату выполнения к задаче',
         function: this.insertNewTask,
         params: {
           type: 'waiting-on'
         }
       },
       {
-        label: 'Toggle #someday',
+        label: 'Добавить #когда-нибудь',
         function: this.toggleSomeday
       },
       {
-        label: 'Toggle priority 🔼',
+        label: 'Добавить #приоритет 🔼',
         function: this.togglePriority
       },
       {
-        label: 'Archive/Remove completed tasks',
+        label: 'Архивировать/Удалить выполненые задачи',
         function: this.removeCompletedTasks
       }
     ]

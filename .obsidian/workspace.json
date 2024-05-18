@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "953676c53574611d",
+        "id": "0e310e8b2341ae65",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c713293155d043",
+            "id": "0e976bb42b68f35c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Project Management/✅ Основная страница.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "998de50275259d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 Project Management/Projects/Ремонт в кухне.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 Project Management/Projects/Ремонт в кухне.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 Project Management/Projects/Ремонт в кухне.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 Project Management/Projects/Ремонт в кухне.md"
               }
             }
           },
@@ -152,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "01 Project Management/Projects/Ремонт в кухне.md"
               }
             }
           }
@@ -164,51 +179,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d3c713293155d043",
+  "active": "998de50275259d79",
   "lastOpenFiles": [
-    "Periodic notes/2023-08-18.md",
-    "00 Documentation/Task menu template.md",
-    "00 Documentation/Documentation.md",
-    "00 Documentation/GTD/Next Actions.md",
-    "00 Documentation/tasks.js.md",
-    "00 Documentation/Mobile quick add.md",
-    "Utility/Templates/Tasks menu.md",
-    "Utility/Templates/New note.md",
-    "Utility/Templates/@-mention person.md",
-    "Utility/Templates/New note templates/Person.md",
-    "Utility/Templates/New note templates/Project.md",
-    "People/👤David.md",
-    "People/👤Brent.md",
-    "People/👤Mum.md",
-    "People/👤Lumbergh.md",
-    "People/👤Jim.md",
-    "Utility/Templates/New note templates/Meeting.md",
-    "Utility/Templates/New note templates/! Default note.md",
-    "01 Project Management/Projects/Write a how-to guide for GTD in Obsidian.md",
-    "01 Project Management/Projects/Take a holiday in Spain.md",
+    "01 Project Management/✅ Основная страница.md",
+    "01 Project Management/Projects/Ремонт в кухне.md",
     "01 Project Management/Projects/Renovate the kitchen.md",
-    "01 Project Management/Projects/Overhaul TPS reports system.md",
-    "01 Project Management/🗃️ Projects list.md",
-    "01 Project Management/🗄️ Completed tasks.md",
+    "People/👤Brent.md",
+    "People/👤Мама.md",
+    "People/👤Lumbergh.md",
+    "Periodic notes/2023-08-18.md",
+    "01 Project Management/Projects/👤Mum.md",
+    "People/👤Mum.md",
+    "00 Documentation/tasks.js.md",
+    "01 Project Management/📝 Список отдельных задач.md",
+    "01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4.md",
+    "Periodic notes/2024-05-13.md",
+    "01 Project Management/Projects/Без названия.md",
+    "01 Project Management/🗄️ Выполненые задачи.md",
+    "01 Project Management/🗃️ Список проектов.md",
+    "People/👤David.md",
+    "People/👤Jim.md",
+    "01 Project Management/Projects/Write a how-to guide for GTD in Obsidian.md",
     "01 Project Management/📝 Next actions list.md",
+    "01 Project Management/🗄️ Completed tasks.md",
     "01 Project Management/✅ Tasks.md",
+    "01 Project Management/Projects/🗃️ Список проектов.md",
+    "01 Project Management/🗃️ Projects list.md",
+    "01 Project Management/Projects/attachments/01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4/Личное. Homeassistant. Настроить камеру aqara g4_600x600.webp",
+    "Utility/Templates/New periodic note.md",
+    "Utility/Templates/New note — копия.md",
+    "01 Project Management/Projects/attachments/01 Project Management/Projects/Личное. Homeassistant. Настроить камеру aqara g4",
+    "01 Project Management/Projects/attachments/01 Project Management/Projects",
+    "01 Project Management/Projects/attachments/01 Project Management",
+    "01 Project Management/Projects/attachments",
     "Utility/Scripts/Dataview/mentions-table.js",
     "People",
     "02 Vault",
     "01 Project Management/Meetings",
     "Utility/Templates/New note templates",
     "99 Utility/Scripts/Dataview/tasks.js",
-    "99 Utility/Scripts/Dataview",
-    "99 Utility/Scripts",
-    "99 Utility",
     "02 Documentation/attachments/Pasted image 20230821082403.png",
-    "00 Documentation/attachments",
     "00 Documentation/attachments/Pasted image 20230820170011.png"
   ]
 }

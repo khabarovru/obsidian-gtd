@@ -16,7 +16,7 @@ const globalExclude = {
     '#completed'
   ],
   headings: [
-    '🌱 Daily Habits'
+    '🌱 Ежедневные привычки'
   ]
 }
 /*
@@ -157,12 +157,12 @@ function taskList(group, header) {
 
 // Projects without next action
 if (noNextAction.length) {
-  dv.header(2, '🚩 Projects without next actions')
+  dv.header(2, '🚩 Проекты без текущих задач')
   dv.list(noNextAction.map(p => p.link))
 }
 
 // Output the task list
-taskList(Groups.Priority, '🔼 Priority',)
-taskList(Groups.Waiting,  '⏳ Waiting on...')
-taskList(Groups.Normal,   '✅ Next actions')
-taskList(Groups.Someday,  '💤 Someday')
+taskList(Groups.Priority, '🔼 Важные',)
+taskList(Groups.Waiting,  '⏳ Ожидать до...')
+taskList(Groups.Normal,   '✅ Текущие задачи')
+taskList(Groups.Someday,  '💤 Когда-нибудь')

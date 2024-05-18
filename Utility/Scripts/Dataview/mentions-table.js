@@ -1,7 +1,7 @@
 if (input) {
 	// Add a header of level X, e.g. input = 2 means header level 2
 	const name = dv.current().file.name.replace(/^@/, '')
-	dv.header(input, 'Notes referencing ' + name)
+	dv.header(input, 'Заметки связаные с ' + name)
 }
 dv.table(
 	["Note", "Location"],

@@ -1,0 +1,57 @@
+{
+  "token": "c9c2c007-5779-4ee1-b8a4-befe39c862cf",
+  "projects": [
+    {
+      "id": "64e45ee84dd056a25351f53f",
+      "name": "🦄Список желаний Wish list",
+      "sortOrder": -196608,
+      "viewMode": "kanban",
+      "permission": "write",
+      "kind": "TASK"
+    },
+    {
+      "id": "64e45ee84dd056a25351f540",
+      "name": "🏠Личный Private",
+      "sortOrder": -262144,
+      "permission": "write",
+      "kind": "TASK"
+    },
+    {
+      "id": "64e45ee84dd056a25351f541",
+      "name": "💼Работа Work",
+      "sortOrder": -327680,
+      "viewMode": "list",
+      "permission": "write",
+      "kind": "TASK"
+    },
+    {
+      "id": "64e63fd7d934d183555f78dd",
+      "name": "🔄Регулярное Repeat",
+      "sortOrder": -393216,
+      "permission": "write",
+      "kind": "TASK"
+    },
+    {
+      "id": "6500b5f9d9342a37007ede3f",
+      "name": "👑 Личное",
+      "sortOrder": -425984,
+      "closed": false,
+      "groupId": "6500b5dcd9342a37007ede39",
+      "permission": "write",
+      "kind": "NOTE"
+    },
+    {
+      "id": "6500b6a7d9342a37007ede70",
+      "name": "🏢Работа",
+      "sortOrder": -442368,
+      "closed": false,
+      "groupId": "6500b5dcd9342a37007ede39",
+      "permission": "write",
+      "kind": "NOTE"
+    }
+  ],
+  "avatarUrl": "https://profile-photo.s3.amazonaws.com/files/avatar/6099/MTIxOTgxMDE5cm4xcjJlcXo=/avatar.png?v=06a294ae663713883a34d421e821bfcb",
+  "name": "khabarovru",
+  "autoFetchData": true,
+  "login": true
+}
